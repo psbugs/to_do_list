@@ -8,6 +8,9 @@
   },
   "author": "Praveen Sunhare",
   "license": "ISC",
+  "engines": {
+    "node": "15.5.1"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
